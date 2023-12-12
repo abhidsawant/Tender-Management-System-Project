@@ -1,5 +1,13 @@
+body {
+	background-color: #FFE5CC;
+}
+
+.my-container {
+	background-color: #FFE5CC;
+}
+
 .footer {
-	/* 	position: 
+	/* 	position: fixed;
  */
 	margin-bottom: 0px;
 }
@@ -98,7 +106,7 @@
 		margin-bottom: -23px;
 	}
 	.navbar-header p {
-		margin-top: 30px;
+		margin-top: 5px;
 		margin-left: 16%;
 		font-size: 1.0em;
 		margin-bottom: -10px;
@@ -133,7 +141,7 @@
 		height: 60px;
 	}
 	.navbar-header p {
-		margin-top: 50px;
+		margin-top: 5px;
 		margin-left: 85px;
 		font-size: 1.0em;
 		color: #ccccff;
@@ -162,7 +170,7 @@
 		height: 70px;
 	}
 	.navbar-header p {
-		margin-top: 54px;
+		margin-top: 5px;
 		margin-left: 85px;
 		font-size: 1.2em;
 		color: #ccccff;
@@ -184,7 +192,7 @@
 		font-family: 'Black Ops One';
 	}
 	.navbar-header p {
-		margin-top: 58px;
+		margin-top: 5px;
 		margin-left: 85px;
 		font-size: 1.5em;
 		color: #ccccff;
@@ -210,7 +218,7 @@
 		font-family: 'Black Ops One';
 	}
 	.navbar-header p {
-		margin-top: 60px;
+		margin-top: 5px;
 		margin-left: 95px;
 		font-size: 1.5em;
 		color: #ccccff;
